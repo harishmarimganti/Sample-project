@@ -1,3 +1,7 @@
 new project started in github
 edited the new project for 2nd time
+<<<<<<< HEAD
 3rd project started in the local computer
+=======
+last project updated in the local repository
+>>>>>>> b741b9e602b9bb217682248561d439eec997a028
