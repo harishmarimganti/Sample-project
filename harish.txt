@@ -1,1 +1,2 @@
 i am a devops guy 
+pull the changes first form repository
